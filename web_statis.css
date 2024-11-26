@@ -120,7 +120,7 @@ section{
 	min-height: 100vh;
 	display: flex;
 	align-items: center;
-	background:url('bg.jpg') no-repeat ;
+	background:url('./images/Bg.jpg') no-repeat ;
 	background-size: cover;
 	background-position: center;
 }
